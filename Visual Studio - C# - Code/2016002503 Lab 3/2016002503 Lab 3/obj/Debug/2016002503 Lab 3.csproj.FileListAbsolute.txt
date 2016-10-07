@@ -1,0 +1,9 @@
+c:\users\plague doctor\documents\visual studio 2015\Projects\2016002503 Lab 3\2016002503 Lab 3\bin\Debug\2016002503 Lab 3.exe.config
+c:\users\plague doctor\documents\visual studio 2015\Projects\2016002503 Lab 3\2016002503 Lab 3\bin\Debug\2016002503 Lab 3.exe
+c:\users\plague doctor\documents\visual studio 2015\Projects\2016002503 Lab 3\2016002503 Lab 3\bin\Debug\2016002503 Lab 3.pdb
+c:\users\plague doctor\documents\visual studio 2015\Projects\2016002503 Lab 3\2016002503 Lab 3\obj\Debug\2016002503 Lab 3.csprojResolveAssemblyReference.cache
+c:\users\plague doctor\documents\visual studio 2015\Projects\2016002503 Lab 3\2016002503 Lab 3\obj\Debug\_2016002503_Lab_3.Form1.resources
+c:\users\plague doctor\documents\visual studio 2015\Projects\2016002503 Lab 3\2016002503 Lab 3\obj\Debug\_2016002503_Lab_3.Properties.Resources.resources
+c:\users\plague doctor\documents\visual studio 2015\Projects\2016002503 Lab 3\2016002503 Lab 3\obj\Debug\2016002503 Lab 3.csproj.GenerateResource.Cache
+c:\users\plague doctor\documents\visual studio 2015\Projects\2016002503 Lab 3\2016002503 Lab 3\obj\Debug\2016002503 Lab 3.exe
+c:\users\plague doctor\documents\visual studio 2015\Projects\2016002503 Lab 3\2016002503 Lab 3\obj\Debug\2016002503 Lab 3.pdb
